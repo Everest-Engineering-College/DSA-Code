@@ -1,0 +1,5 @@
+301,Hari Kunwar,45,60,36
+302,Manita Thapa,52,15,65
+303,Puskar Shah,78,85,79
+304,Usha karki,48,45,45
+305,Bikash Rajat,92,95,88
