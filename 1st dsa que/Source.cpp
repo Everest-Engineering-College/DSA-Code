@@ -40,24 +40,17 @@ void settheinfo()
 		stdu.programming[i] = prog[i];
 
 	}
-	/*cout << "first name" << stdu.name[0];
-	cout << "manita thapa prog" << stdu.programming[1];
-	cout << "he";*/
+	
 }
 void count_fail()
 {
 	int count = 0;
 	bool j = true;
 	int pass = 45;
-	bool mf;
-	bool pf;
-	bool phyf;
+	
 	for (int i = 0; i < ar; i++)
 	{
-		/*if (pf = (stdu.programming[i] < pass) || mf = (stdu.maths[i] < pass) || phyf = (stdu.physics[i] < pass))
-		{
-			cout << stdu.name[i] << "is failed in subject Programming" << endl;
-		}*/
+		
 		if (stdu.programming[i] < pass)
 		{
 			cout << stdu.name[i] << " is failed in subject Programming"<<endl;
@@ -99,7 +92,7 @@ void count_fail()
 }
 void calculate_division()
 {
-	bool booldiv = true;
+	
 	float percent[ar];
 	int total[ar];
 
