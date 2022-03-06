@@ -1,0 +1,6 @@
+Phone Number,Ticket Type,Arrival Time
++977-9849023236,Individual,10 Unit
++977-9849023260,Family,21 Unit
++977-9849023299,Family,22 Unit
++977-9849023220,Individual,24 Unit
++977-9849023243,Family,27 Unit
