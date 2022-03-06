@@ -1,5 +1,5 @@
 //
-// Created by amirp on 1/12/2022.
+// Created by amir_poudel on 1/12/2022.
 //
 //Problem: Development of ticket booking module for a day of typical Cinema hall.
 
